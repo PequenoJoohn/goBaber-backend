@@ -2,20 +2,26 @@
 
 ## Library
 
-- Express
+- @sentry/node
 - bcryptjs
-- multer
+- bee-queue
+- date-fns
+- dotenv
+- express
+- express-async-errors
+- express-handlebars
 - jsonwebtoken
+- mongoose
+- multer
+- nodemailer
+- nodemailer-express-handlebars
 - pg
 - pg-hstore
 - sequelize
+- youch
 - yup
 
 ### Development Dependencies
-- prettier
-- sequelize-cli
-- sucrase
-- typescript
 - typescript-eslint/eslint-plugin
 - typescript-eslint/parser
 - eslint
@@ -23,6 +29,10 @@
 - eslint-config-prettier
 - eslint-plugin-import
 - eslint-plugin-prettier
+- prettier
+- sequelize-cli
+- sucrase
+- typescript
 
 ### Team Development
 + [Jonathan Matos](https://github.com/pequenojoohn)
